@@ -4,7 +4,7 @@
   <img src="https://www.gitskins.com/api/section/hero?username=stephanosiliadis&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F135632127%3Fv%3D4" alt="stephanosiliadis hero visual" />
 </p>
 
-**Stefanos Iliadis** · Frontend or full-stack engineer
+**Stefanos Iliadis** · ML Engineer and occasionally Frontend Engineer
 
 ## About
 
